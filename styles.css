@@ -17,3 +17,8 @@ div {
 p {
     color: aquamarine;
 }
+
+.container {
+    border-radius: 15%;
+    background-color: blue;
+}

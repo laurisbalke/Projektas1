@@ -22,3 +22,14 @@ p {
     border-radius: 15%;
     background-color: blue;
 }
+.klase {
+    border: 1px solid black;
+}
+
+.klase2 {
+    border: 1px solid yellow;
+}
+
+.klase3 {
+    border: 1px solid green;
+}
